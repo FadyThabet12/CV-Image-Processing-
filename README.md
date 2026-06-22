@@ -79,7 +79,12 @@ Add screenshots or GIF here:
 ```
 /assets/demo.gif
 ```
-<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/611fb431-a36f-4045-8e90-8ea7fe8bcdde" />
+<img width="3000" height="1881" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/f3b3286a-0469-44c9-9b7e-cad0a27ddf5d" />
+<img width="2979" height="1855" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/4e3c025e-d48e-4d28-8cb4-02075c983b6a" />
+<img width="3000" height="1828" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/2007ab45-bb60-4706-8e97-ff429b6a52a9" />
+<img width="3000" height="1668" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/b2bc8d96-c142-4cc7-a4d7-fb91407d9bbb" />
+<img width="3000" height="1795" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/23737744-06ef-4a6b-b488-9eed0f63a9c2" />
+
 
 ---
 
