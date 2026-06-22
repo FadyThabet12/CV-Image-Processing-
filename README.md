@@ -79,6 +79,7 @@ Add screenshots or GIF here:
 ```
 /assets/demo.gif
 ```
+<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/611fb431-a36f-4045-8e90-8ea7fe8bcdde" />
 
 ---
 
