@@ -11,7 +11,6 @@ st.title(" CV Image Processing App")
 algorithm = st.sidebar.selectbox(
     "Choose Algorithm",
     [
-        "Original Image",
         "Resize & Rotate",
         "Invert & Grayscale",
         "Histogram",
